@@ -87,5 +87,5 @@ This project is developed as part of an academic coursework submission and is cu
 
 ---
 
-**Developed by:** Brave Team of Five (Leader: KIM GEONWOO)\n
-**Affiliation:** YONSEI UNIVERSITY Data Science Lab (DSL)
+- **Developed by:** Brave Team of Five (Leader: KIM GEONWOO)
+- **Affiliation:** YONSEI UNIVERSITY Data Science Lab (DSL)
